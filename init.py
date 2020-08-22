@@ -4,7 +4,8 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-@app.route('/')
+@app.route('/', defaults={"path": ""})
+@app.route("/<path:path>") 
 def index_page():
     return render_template("index")
 
