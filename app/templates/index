@@ -4,10 +4,17 @@
 <html>
 <head>
 <title>otl-hga.net</title>
+<style>
+
+body {
+	align-content: center;
+	background-color: "#eeeeee";
+}
+</style>
 </head>
 
 <body>
-<h2>No user serviceable parts inside.</h2> <br />
+<img src="https://otlhgacdn.azureedge.net/index/no-parts.jpg"/> <br />
 Please direct inquiries and complaints to lavacano at lavacano dot net.
 </body>
 
