@@ -4,7 +4,7 @@
 <html>
 <head>
 <title>otl-hga.net</title>
-<link rel="icon" type="image/png" href="https://otlhgacdn.azureedge.net/index/favicon.png" />
+<link rel="icon" type="image/png" href="https://cdn.otl-hga.net/index/favicon.png" />
 <style>
 
 body {
@@ -15,7 +15,7 @@ body {
 </head>
 
 <body>
-<img src="https://otlhgacdn.azureedge.net/index/no-parts.jpg"/> <br />
+<img src="https://cdn.otl-hga.net/index/no-parts.jpg"/> <br />
 Please direct inquiries and complaints to lavacano at lavacano dot net.
 </body>
 
