@@ -1,0 +1,7 @@
+{% extends "html" %}
+{# vim: ft=jinja :
+#}
+{% block content %}
+<img src="https://cdn.otl-hga.net/index/no-parts.jpg"/> <br />
+Please direct inquiries and complaints to lavacano at lavacano dot net.
+{% endblock %}

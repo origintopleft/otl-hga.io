@@ -1,0 +1,20 @@
+{#
+   vim: ft=jinja :
+#}
+
+<!doctype html>
+<html>
+<head>
+<title>{{ title }}</title>
+{% for style in styles %}
+<link rel="stylesheet" href="{{ style }}" />
+{% endfor %}
+{% for script in scripts %}
+<script type="text/javascript" src="{{ script }}"> </script>
+{% endfor %}
+</head>
+<body>
+{% block content %}
+{% endblock %}
+</body>
+</html>
