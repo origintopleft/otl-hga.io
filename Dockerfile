@@ -6,7 +6,7 @@ WORKDIR /app
 
 COPY requirements.txt /app/requirements.txt
 RUN pip3 install -r requirements.txt
-CMD rm /app/requirements.txt
+RUN rm /app/requirements.txt
 
 COPY app/ /app/
 
